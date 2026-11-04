@@ -53,6 +53,5 @@ python week01_embeddings.py
 - `outputs/word_frequencies_<语言>.csv`：词频统计
 - `outputs/word2vec_<语言>.model`：Word2Vec 模型
 - `outputs/neighbor_query_results.csv`：5 组，每组 5 个近邻及相似度
-- `report/实验报告.md`：实验报告
 
 五种语言分别训练。没有跨语言对齐数据时，不同语言的词向量不能直接比较。
